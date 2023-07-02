@@ -1,0 +1,10 @@
+.{
+    .name = "chalk",
+    .version = "0.0.0",
+    .dependencies = .{
+        .sliderule = .{
+            .url = "https://github.com/DaJobat/sliderule/archive/main.tar.gz",
+            .hash = "12202058f3d256a9afc22d2865f653bc5d0f70558f58cbf268434520b39c716668ab",
+        },
+    },
+}
